@@ -5,7 +5,7 @@ function App() {
   return (
     <>
     <Maggie/>
-    <h1>react</h1>
+    <h1>react basics</h1>
     </>
   );
 }
