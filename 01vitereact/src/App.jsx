@@ -1,10 +1,14 @@
-
+import Maggie from "./maggie"
 
 function App() {
 
 
   return (
-    <h1>react with vite</h1>
+    <>
+    <Maggie/>
+    <h1>Basic react</h1>
+    <p>test para</p>
+    </>
   )
 }
 
